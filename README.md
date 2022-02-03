@@ -3,4 +3,4 @@ This is a dashboard built using ReactJS and Styled Component to test my creativi
 Still in Progress
 https://mariamopeyemi.github.io/Dasboard-Test/ (You are here because you have my old cv, Sorry)
 
-https://my-dashboard-solution.netlify.app/ (Here is the link to the completed dashboard, Thank you)
+https://my-dashboard-solution.netlify.app/ (Here is the link to the completed dashboard, Thank you) (Click Me)[https://my-dashboard-solution.netlify.app/]
